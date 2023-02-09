@@ -49,6 +49,7 @@ remote_theme: noamboy2006/noamboy2006.github.io
 
 logo_img: #Absolute path to the logo. If not specified, the title will be displayed instead.
 copyright: © Kim Sunghoon 2023 #Your copyright.
+timezone: Asia/Seoul
 
 collections:
     category:
