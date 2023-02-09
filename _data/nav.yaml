@@ -1,0 +1,16 @@
+- title: Physics #Menu item title.
+  url: category/physics.html #Menu item url.
+  icon: assets/img/icons/physicsicon.svg #Menu item icon.
+  hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
+  # subnav: #Subnav. See note [2].
+  #     - title: C++ #Submenu item title.
+  #       url: category/cpp.html #Submenu item url.
+  #       hue: "var(--c-themeHueOrange)" #Submenu item hue.
+  #       subnav: #Another subnav
+  #           - title: Libraries
+  #             url: category/libs.html
+  #             hue: "var(--c-themeHueBlue)"
+- title: Informatics
+  url: category/informatics.html
+  icon: assets/img/icons/informaticsicon.svg
+  hue: "var(--c-themeHueBlue)"
